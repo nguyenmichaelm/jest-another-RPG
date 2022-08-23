@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG\u001b[D\u001b[D\u001b[DCLI RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenmichaelm/jest-another-RPG.git"
+  },
+  "author": "Michael Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenmichaelm/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/nguyenmichaelm/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
